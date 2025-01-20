@@ -1,2 +1,2 @@
-# Testify-api-task
-Introductory API AUTOMATION  task to GITHUB
+# Testify-api-course
+Introductory API TEST AUTOMATION TRAINING
